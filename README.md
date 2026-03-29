@@ -1,4 +1,4 @@
-# Schedule JSON to Outlook ICS Converter
+# XJTLU timetable to Outlook ICS Converter
 
 [**English**](./README.md) | [**中文简体**](./README_zh.md)
 

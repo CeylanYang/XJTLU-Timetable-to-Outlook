@@ -1,4 +1,4 @@
-# 课表 JSON 转 Outlook ICS 转换器
+# XJTLU Timetable 转 Outlook ICS 转换器
 
 [**English**](./README.md) | [**中文简体**](./README_zh.md)
 
